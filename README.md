@@ -1,2 +1,2 @@
 # Drug-classification-problem-with-python
-A Kneighbor classifier algorithm that predicts the drug type for a diabetes patient  based on the patients' record.
+A decision tree classifier algorithm that predicts the drug type for  patient  based on the patient's record.
